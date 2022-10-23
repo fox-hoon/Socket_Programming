@@ -65,3 +65,7 @@
   + send 함수는 서버와 클라이언트 간 메시지를 전송한다.
   
   ![image](https://user-images.githubusercontent.com/84726924/197381851-2d091a48-a1d1-4ecf-84d0-d28594f91388.png)
+***
+# TEST
+![image](https://user-images.githubusercontent.com/84726924/197382593-295ff536-af35-4d39-89d6-b831b8c53f9c.png)
++ 위 사진과 같이 서버와 클라이언트 2개의 통신을 확인할 수 있다.
