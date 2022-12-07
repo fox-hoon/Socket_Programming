@@ -1,3 +1,11 @@
+# 기술 스택
+### ✔Programming Language
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+
+### ✔Tool
+<img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+
+***
 # Simple Chat with Socket Programming
 + C++ 소켓 통신을 사용한 간단한 채팅 프로그램
 + **서버**
